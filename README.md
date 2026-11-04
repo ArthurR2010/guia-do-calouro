@@ -19,3 +19,7 @@ Guia para os novos alunos do primeiro ano do Ensino Médio.
   dicas de estudo e regras de convivência.
 - [daviguimaraessr1809-lgtm](https://github.com/daviguimaraessr1809-lgtm):
   clubes, atividades e contatos institucionais.
+
+## Quadro do projeto
+
+[Acompanhar as tarefas do Guia do Calouro](https://github.com/users/joaogustavobetim/projects/1)
